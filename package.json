@@ -1,0 +1,19 @@
+{
+  "name": "car_rental",
+  "version": "1.0.0",
+  "description": "task4lab1RAI",
+  "main": "src/index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
